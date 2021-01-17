@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <div className='header__container'>
       <div className='header__container-left'>
-        <div className='logo'>Automated Jobs</div>
+        <div className='logo'>Intellijobs</div>
       </div>
       <div className='header__container-right'>
         <ul>
