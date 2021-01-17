@@ -28,7 +28,7 @@ class Home extends Component {
       <div className='container'>
         <div className='fillout_info'>
           {' '}
-          <Link to='/form' style={{ textDecoration: 'none', color: 'black' }}>
+          <Link to='/form' style={{ textDecoration: 'none', color: 'black', borderBottom: 'black dotted'}}>
             Fill out your Info
           </Link>
         </div>
