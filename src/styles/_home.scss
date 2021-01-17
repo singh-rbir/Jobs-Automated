@@ -16,6 +16,7 @@
   .single-job-container {
     width: 100%;
     margin-top: 60px;
+    margin-bottom: 50px;
     .single-job {
       display: flex;
       justify-content: center;
@@ -42,6 +43,10 @@
       }
     }
   }
+  hr {
+    width: 100%;
+    color: rgb(204, 199, 199);
+  }
   .controls {
     display: flex;
     margin-top: 50px;
@@ -49,6 +54,7 @@
     width: 87%;
     align-items: center;
     border: 1px solid rgb(167, 166, 166);
+    border-radius: 4px;
     height: 100px;
     .company_option {
       margin-right: 30px;
@@ -65,6 +71,25 @@
         padding: 6px;
         font-size: 1.4rem;
       }
+    }
+    .apply__btn__container {
+      .apply_btn {
+        background-color: $main-color;
+        color: $white;
+        border: 0;
+        height: 50px;
+        padding: 0px 30px;
+        border-radius: 4px;
+        cursor: pointer;
+      }
+    }
+  }
+
+  .jobList__container {
+    width: 87%;
+    ul {
+      margin: 0;
+      padding: 0;
     }
   }
 }
