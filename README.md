@@ -4,7 +4,12 @@ Desc: A webapp that automates the repetitive process of applying to jobs. Primar
 
 Attempts to automate and eliminate the redundant process of filling in the same information everytime a user applies for a position online. 
 
-### Tech stack: ReactJS, Selenium, Lever.io (public API)
+### Tech stack: 
+ReactJS, Selenium, Lever.io (public API)
+
+#### Note: 
+<i>Chromedriver may be need to run this locally</i>
+
 
 #### Currently: supports jobs by the lever.io platform. 
 
