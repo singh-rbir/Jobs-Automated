@@ -1,3 +1,13 @@
+### Hackathon project: Jobs Automated
+
+Desc: A webapp that automates the repetitive process of applying to jobs. Primarily geared towards software engineering/techical job postings. 
+
+Attempts to automate and eliminate the redundant process of filling in the same information everytime a user applies for a position online. 
+
+### Tech stack: ReactJS, Selenium, Lever.io (public API)
+
+#### Currently: supports jobs by the lever.io platform. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -64,7 +74,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 ### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
